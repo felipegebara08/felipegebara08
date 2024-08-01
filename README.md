@@ -1,6 +1,6 @@
 # Hello and welcome to my github pag 👋
 
-i'm Felipe Teixeira Gebara, a student learning about programing language at a IT  school.
+i'm Felipe Teixeira Gebara, a student learning about programing language at a school.
 
 I'm **passionate** about programming and one day I want to create a game for people to have fun playing, but for now I want to start slowly to get an idea and learn how to make things efficient.
 
