@@ -1,4 +1,4 @@
-# Hello and welcome to my github pag 👋
+# Hello and welcome to my github page 👋
 
 i'm Felipe Teixeira Gebara, a student learning about programing language at a school.
 
